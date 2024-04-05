@@ -1,0 +1,68 @@
+
+Matematica Ii - 2º Ano B Noite - Médio
+ABRAHAM LINCOLN, C E PRES-EF M N PROFIS
+Próximas atividades
+Nenhuma atividade para a próxima semana!
+
+Escreva um aviso para sua turma
+
+Aviso: "Segue as linhas de código."
+MARCUS VINICIUS DELGOBO
+Criado em: 19:5419:54
+Segue as linhas de código.
+
+linhas de codigo html.txt
+Texto
+
+Adicionar comentário para a turma...
+
+Atividade: "MAT_2_EM_Q01-Q03"
+MARCUS VINICIUS DELGOBO postou uma nova atividade pelo Quizizz: MAT_2_EM_Q01-Q03
+Criado em: 6 de mar.6 de mar.
+
+Aviso: "Segue o link da pasta a ser copiada no…"
+MARCUS VINICIUS DELGOBO
+Criado em: 23 de fev.23 de fev.
+Segue o link da pasta a ser copiada no Google Drive:
+
+https://drive.google.com/drive/folders/1GyA374Bsm6w1GPjo9YIicx5VIpVkcBgg?usp=sharing
+
+Adicionar comentário para a turma...
+
+﻿<!DOCTYPE html>
+<html>
+   <head>
+      <title>Blog Pessoal</title>
+      </head> 
+   <body>
+      <header>   
+      <h1>Seu Blog Pessoal</h1>
+      <nav>
+         <a href=”dominio.tld/home”>Início</a>
+         <a href=”dominio.tld/blog”>Blog</a>
+         <a href=”dominio.tld/sobre”>Sobre</a>
+      </nav>
+      </header>
+      <main>
+         <div class=”row">
+            <div class="post-text-box">
+               <h1>Postagem Mais Recente</h1>
+               <section>
+                  <h1>Primeira Postagem</h1>
+                  <p>O conteúdo do primeiro post</p>
+               </section>
+            </div>
+            <div class=”profile”>
+               <h1>Sobre Mim</h1>
+               <img src=”foto-de-perfil.png”>
+               <p>Sobre o autor</p>
+            </div>  
+         </div>        
+      </main>
+      <footer>
+         <a href=”twitter.com/autor”>Twitter</a>
+         <a href=”facebook.com/autor”>Facebook</a>
+         <a href=”instagram.com/autor”>Instagram</a>
+      </footer>
+    </body>
+</html>
